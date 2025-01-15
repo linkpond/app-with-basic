@@ -209,4 +209,7 @@ replay_pid*
 # properties
 *.properties
 
+# vscode
+.vscode
+
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,intellij
